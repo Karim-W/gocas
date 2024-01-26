@@ -1,0 +1,3 @@
+[application]
+module = "github.com/karim-w/gocas"
+service = "gocas"
